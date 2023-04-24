@@ -33,6 +33,7 @@
   3.	FP cenderung lebih deklaratif dan mudah dibaca, sedangkan OOP cenderung lebih fleksibel dan mudah di-maintain.
   Namun keduanya memiliki keunggulan dan kelemahan masing-masing, tergantung pada jenis masalah yang dihadapi dalam pengembangan perangkat lunak.
 
+#Jawaban soal no 2
 2. berikan apa saja contoh pengimplementasian dari oop
   Ada banyak contoh pengimplementasian dari OOP (Object-Oriented Programming), di antaranya:
 
