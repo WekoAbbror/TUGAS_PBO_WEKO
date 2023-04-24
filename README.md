@@ -1,6 +1,6 @@
 # TUGAS_PBO_WEKO
-1. buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman pyhon, serta berikan contoh masing-masing code nya
 **Jawaban soal no 1**
+1. buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman pyhon, serta berikan contoh masing-masing code nya
   Pemrograman Fungsional dan Pemrograman Berorientasi Objek (OOP) adalah dua paradigma pemrograman yang berbeda dalam bagaimana program disusun dan diorganisasi. Berikut adalah perbedaan dan contoh implementasi keduanya dalam bahasa pemrograman Python:
   1.	Pemrograman Fungsional (FP)
   FP adalah paradigma pemrograman yang tekanan pada pemakaian fungsi (function) sebagai unit dasar dalam pemrograman. Di FP, fungsi diperlakukan seperti variabel dan dapat digunakan untuk melakukan operasi matematika, transformasi data, dan lain-lain.
