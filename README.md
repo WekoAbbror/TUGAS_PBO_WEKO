@@ -34,21 +34,21 @@
   Namun keduanya memiliki keunggulan dan kelemahan masing-masing, tergantung pada jenis masalah yang dihadapi dalam pengembangan perangkat lunak.
 
 2. berikan apa saja contoh pengimplementasian dari oop
-    Ada banyak contoh pengimplementasian dari OOP (Object-Oriented Programming), di antaranya:
+  Ada banyak contoh pengimplementasian dari OOP (Object-Oriented Programming), di antaranya:
 
-    1.	Pembuatan Game: Pada pembuatan game, OOP digunakan untuk membuat objek-objek dalam game seperti karakter, senjata, dan lingkungan. Setiap objek memiliki sifat-sifat dan perilaku sendiri yang dapat diatur dan diprogram dengan menggunakan konsep OOP seperti pewarisan dan polimorfisme.
+  1.	Pembuatan Game: Pada pembuatan game, OOP digunakan untuk membuat objek-objek dalam game seperti karakter, senjata, dan lingkungan. Setiap objek memiliki sifat-sifat dan perilaku sendiri yang dapat diatur dan diprogram dengan menggunakan konsep OOP seperti pewarisan dan polimorfisme.
 
-    2.	Pembuatan Aplikasi Desktop: OOP juga digunakan pada pembuatan aplikasi desktop. Contohnya, sebuah aplikasi pengolah kata dapat dibangun dengan menggunakan konsep OOP seperti class untuk menyimpan data dokumen dan metode untuk menyimpan data dokumen.
+  2.	Pembuatan Aplikasi Desktop: OOP juga digunakan pada pembuatan aplikasi desktop. Contohnya, sebuah aplikasi pengolah kata dapat dibangun dengan menggunakan konsep OOP seperti class untuk menyimpan data dokumen dan metode untuk menyimpan data dokumen.
 
-    3.	Pembuatan Aplikasi Mobile: OOP juga dapat digunakan pada pembuatan aplikasi mobile. Contohnya, sebuah aplikasi pemesanan makanan dapat dibangun dengan menggunakan konsep OOP seperti class untuk menyimpan informasi restoran dan menu.
+  3.	Pembuatan Aplikasi Mobile: OOP juga dapat digunakan pada pembuatan aplikasi mobile. Contohnya, sebuah aplikasi pemesanan makanan dapat dibangun dengan menggunakan konsep OOP seperti class untuk menyimpan informasi restoran dan menu.
 
-    4.	Pembuatan Website: OOP dapat digunakan pada pembuatan website. Contohnya, sebuah website e-commerce dapat dibangun dengan menggunakan konsep OOP seperti class untuk menyimpan informasi produk dan metode untuk memproses transaksi pembelian.
+  4.	Pembuatan Website: OOP dapat digunakan pada pembuatan website. Contohnya, sebuah website e-commerce dapat dibangun dengan menggunakan konsep OOP seperti class untuk menyimpan informasi produk dan metode untuk memproses transaksi pembelian.
 
-    5.	Pembuatan Sistem Informasi: OOP dapat digunakan pada pembuatan sistem informasi. Contohnya, sebuah sistem informasi akademik dapat dibangun dengan menggunakan konsep OOP seperti class untuk menyimpan data mahasiswa dan metode untuk mengakses dan mengubah data tersebut.
+  5.	Pembuatan Sistem Informasi: OOP dapat digunakan pada pembuatan sistem informasi. Contohnya, sebuah sistem informasi akademik dapat dibangun dengan menggunakan konsep OOP seperti class untuk menyimpan data mahasiswa dan metode untuk mengakses dan mengubah data tersebut.
 
-    6.	Pembuatan Robotik: OOP juga digunakan pada pembuatan robotik. Contohnya, sebuah robot yang dapat berjalan dapat dibangun dengan menggunakan konsep OOP seperti class untuk mengontrol motor dan sensor.
+  6.	Pembuatan Robotik: OOP juga digunakan pada pembuatan robotik. Contohnya, sebuah robot yang dapat berjalan dapat dibangun dengan menggunakan konsep OOP seperti class untuk mengontrol motor dan sensor.
 
-    7.	Pembuatan Internet of Things (IoT): OOP juga digunakan pada pembuatan IoT. Contohnya, sebuah perangkat pintar yang dapat mengontrol suhu ruangan dapat dibangun dengan menggunakan konsep OOP seperti class untuk mengontrol suhu dan method untuk membaca data sensor.
+  7.	Pembuatan Internet of Things (IoT): OOP juga digunakan pada pembuatan IoT. Contohnya, sebuah perangkat pintar yang dapat mengontrol suhu ruangan dapat dibangun dengan menggunakan konsep OOP seperti class untuk mengontrol suhu dan method untuk membaca data sensor.
 
 
 *buat jawaban di github & upload file code di github
